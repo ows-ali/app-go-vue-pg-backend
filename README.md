@@ -42,5 +42,5 @@ npm run dev
 Server should run on port 3000
 ## App Screenshot
 
-<img width="1380" alt="app screenshot" src="./app screenshot.png">
+<img width="1380" alt="app screenshot" src="https://github.com/ows-ali/app-go-vue-frontend/blob/main/app%20screenshot.png">
 
